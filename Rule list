@@ -12,8 +12,8 @@
 ;设置规则标志位
 ruleset=Github,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
-ruleset=🎮 Epic,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
-ruleset=🎮 Steam,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
+ruleset=🎮 Epic,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
+ruleset=🎮 Steam,https://github.com/Fate0121/My-Rulelist/blob/main/Steam.list
 ruleset=🤖 OpenAI,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/openai.list
 ruleset=🎵 TikTok,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list
 ruleset=🔍 Google,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/google.list
