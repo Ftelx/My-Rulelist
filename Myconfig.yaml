@@ -59,7 +59,7 @@ proxy-groups:
     type: select
     use:
       - myproxy
-  - name: "best HongKong"
+  - name: "Best HongKong"
     type: url-test
     use:
       - myproxy
