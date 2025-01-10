@@ -60,9 +60,9 @@ proxy-groups:
     use:
       - myproxy
   - name: "best HongKong"
-    type: select
-    use:
-      - myproxy
+    type: url-test
+    proxies:
+      - PROXY
     filter: "港"
   - name: "Ads"
     type: select
