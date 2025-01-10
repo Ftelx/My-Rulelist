@@ -59,6 +59,11 @@ proxy-groups:
     type: select
     use:
       - myproxy
+  - name: "best HongKong"
+    type: select
+    use:
+      - myproxy
+    filter: "港"
   - name: "Ads"
     type: select
     proxies:
