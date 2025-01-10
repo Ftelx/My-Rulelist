@@ -61,8 +61,8 @@ proxy-groups:
       - myproxy
   - name: "best HongKong"
     type: url-test
-    proxies:
-      - PROXY
+    use:
+      - myproxy
     filter: "港"
   - name: "Ads"
     type: select
